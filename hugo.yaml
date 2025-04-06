@@ -1,9 +1,24 @@
 baseURL: https://jithinzachariah.in/
 languageCode: en-us
 theme: ["PaperMod"]
+mainsections: ["posts", "papermod"]
 assets:
   disableHLJS: true
   favicon: "assets/favicon.ico"
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: About
+          url: about/
+        - name: Blog
+          url: blog/
+
 params:
   assets:
     favicon: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
@@ -18,6 +33,8 @@ params:
       url: "https://github.com/jithin-zac"
     - name: "x"
       url: "https://x.com/jithin_zac"
+    - name: "stackoverflow"
+      url: "https://stackoverflow.com/users/12345678/jithin-zachariah"
     - name: "hackerrank"
       url: "https://www.hackerrank.com/profile/jithin_zachariah"
     - name: "medium"
