@@ -1,4 +1,18 @@
 baseURL: https://jithinzachariah.in/
 languageCode: en-us
-title: Jithin Zachariah
 theme: ["PaperMod"]
+params:
+  defaultTheme: "light"
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "Jithin Zachariah"
+    subtitle: "Software Engineer based in Berlin, Germany 🇩🇪"
+    imageUrl: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Github
+        url: "https://github.com/jithin-zac"
+      - name: LinkedIn
+        url: "https://www.linkedin.com/in/jithinzachariah/"
