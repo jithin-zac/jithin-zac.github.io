@@ -20,6 +20,8 @@ params:
       url: "https://x.com/jithin_zac"
     - name: "hackerrank"
       url: "https://www.hackerrank.com/profile/jithin_zachariah"
+    - name: "medium"
+      url: "https://medium.com/@jithin-zachariah"
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
