@@ -1,7 +1,12 @@
 baseURL: https://jithinzachariah.in/
 languageCode: en-us
 theme: ["PaperMod"]
+assets:
+  disableHLJS: true
+  favicon: "assets/favicon.ico"
 params:
+  assets:
+    favicon: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
   defaultTheme: "light"
   disableThemeToggle: true
   profileMode:
