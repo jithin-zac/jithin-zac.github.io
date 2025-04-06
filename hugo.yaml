@@ -20,7 +20,6 @@ params:
       url: "https://x.com/jithin_zac"
     - name: "hackerrank"
       url: "https://www.hackerrank.com/profile/jithin_zachariah"
-
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
@@ -28,17 +27,3 @@ params:
     imageUrl: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
     imageWidth: 100 
     imageHeight: 100 
-
-    # buttons:
-    #   - name: Github
-    #     url: "https://github.com/jithin-zac"
-    #   - name: LinkedIn
-    #     url: "https://www.linkedin.com/in/jithinzachariah/"
-  homeInfoParams:
-    Title: "PaperMod's Demo"
-    Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends
