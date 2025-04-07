@@ -1,8 +1,5 @@
 ---
-title: "Jithin Zachariah"
-url: "/about/"
 layout: "about"
-summary: "about"
 ---
 
 Experienced software engineer with a strong background in designing and developing distributed systems. Proficient in building, managing, and optimizing scalable services using domain-driven design principles.
