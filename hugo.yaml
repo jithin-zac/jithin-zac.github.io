@@ -19,7 +19,7 @@ languages:
         - name: Blog
           url: blog/
         - name: Resume
-          url: resume.pdf/  
+          url: /resume.pdf
 
 params:
   assets:
