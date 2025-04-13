@@ -19,7 +19,7 @@ languages:
         - name: Blog
           url: blog/
         - name: Resume
-          url: /resume.pdf
+          url: https://links.jithinzachariah.in/resume?utm_medium=personal_website
 
 params:
   assets:
