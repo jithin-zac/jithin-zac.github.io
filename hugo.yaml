@@ -19,7 +19,7 @@ languages:
         - name: Blog
           url: blog/
         - name: Resume
-          url: https://links.jithinzachariah.in/resume?utm_medium=personal_website
+          url: https://links.jithinzachariah.in/resume?utm_source=personal_website
 
 params:
   assets:
@@ -30,17 +30,17 @@ params:
     - name: "email"
       url: "mailto:jithin.zachariah@icloud.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/jithinzachariah/"  
+      url: "https://links.jithinzachariah.in/linkedin"
     - name: "github"
-      url: "https://github.com/jithin-zac"
+      url: "https://links.jithinzachariah.in/github"
     - name: "x"
-      url: "https://x.com/jithin_zac"
+      url: "https://links.jithinzachariah.in/x"
     - name: "stackoverflow"
-      url: "https://stackoverflow.com/users/13088541/jithin-zachariah?tab=profile"
+      url: "https://links.jithinzachariah.in/stackoverflow"
     - name: "hackerrank"
-      url: "https://www.hackerrank.com/profile/jithin_zachariah"
+      url: "https://links.jithinzachariah.in/hackerrank"
     - name: "medium"
-      url: "https://medium.com/@jithin-zachariah"
+      url: "https://links.jithinzachariah.in/medium"
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
